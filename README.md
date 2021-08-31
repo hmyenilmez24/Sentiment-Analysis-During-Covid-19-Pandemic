@@ -1,1 +1,1 @@
-# Sentiment-Analysis-During-Covid-19-Pandemic
+Collected large amount of tweets which were posted during Covid-19 by various Twitter channels. Classified collected tweets into sentiment classes.  Applied data cleansing steps such as tokenisation, stop-words, lemmatisation etc. Calculated most informative features in terms of classifying sentiments. Visualised confusion matrix and accuracy results. (Python, NLTK library, Tweepy, NumPy, Pandas, scikit-learn, Matplotlib, Naive Bayes Classifier)
